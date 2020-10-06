@@ -1,5 +1,5 @@
 {
-  "main.css": "/Country-quiz/static/css/main.a11649f1.chunk.css",
+  "main.css": "/Country-quiz/static/css/main.a888a7f8.chunk.css",
   "main.js": "/Country-quiz/static/js/main.3bd09620.chunk.js",
   "main.js.map": "/Country-quiz/static/js/main.3bd09620.chunk.js.map",
   "runtime~main.js": "/Country-quiz/static/js/runtime~main.9d6aee9e.js",
@@ -7,9 +7,9 @@
   "static/js/2.511dca02.chunk.js": "/Country-quiz/static/js/2.511dca02.chunk.js",
   "static/js/2.511dca02.chunk.js.map": "/Country-quiz/static/js/2.511dca02.chunk.js.map",
   "index.html": "/Country-quiz/index.html",
-  "precache-manifest.dc5cde43b90e121590e78dbf1084a033.js": "/Country-quiz/precache-manifest.dc5cde43b90e121590e78dbf1084a033.js",
+  "precache-manifest.72dcec7982d984cfde505bd067dc702d.js": "/Country-quiz/precache-manifest.72dcec7982d984cfde505bd067dc702d.js",
   "service-worker.js": "/Country-quiz/service-worker.js",
-  "static/css/main.a11649f1.chunk.css.map": "/Country-quiz/static/css/main.a11649f1.chunk.css.map",
+  "static/css/main.a888a7f8.chunk.css.map": "/Country-quiz/static/css/main.a888a7f8.chunk.css.map",
   "static/media/App.css": "/Country-quiz/static/media/background.7e2f750c.png",
   "static/media/win.svg": "/Country-quiz/static/media/win.82d9605a.svg"
 }
