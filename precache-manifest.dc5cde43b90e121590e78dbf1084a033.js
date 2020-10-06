@@ -1,10 +1,10 @@
 self.__precacheManifest = [
   {
-    "revision": "21176b16457fa1106fca",
-    "url": "/Country-quiz/static/css/main.430ebb12.chunk.css"
+    "revision": "652b0490fdc2c3a0100a",
+    "url": "/Country-quiz/static/css/main.a11649f1.chunk.css"
   },
   {
-    "revision": "21176b16457fa1106fca",
+    "revision": "652b0490fdc2c3a0100a",
     "url": "/Country-quiz/static/js/main.3bd09620.chunk.js"
   },
   {
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/Country-quiz/static/media/background.7e2f750c.png"
   },
   {
-    "revision": "ad421bb61a861b6e54c0ee6f4dbc006b",
+    "revision": "5437064ee0814f1a1179bf4538921730",
     "url": "/Country-quiz/index.html"
   }
 ];
