@@ -10,8 +10,6 @@
 h1{
   width: 300px;
   height: 54px;
-  left: 488px;
-  top: 188px;
   font-family: Poppins;
   font-style: normal;
   font-weight: bold;
@@ -125,4 +123,66 @@ ul li button:hover{
   color: #1D355D;
   width: 209px;
   height: 62px;
+}
+@media only screen and (max-width: 600px) {
+  h1{
+    width: 150px;
+    height: 27px;
+    font-size: 18px;
+    line-height: 27px;
+  }
+  .answer_box {
+    width: 200px;
+    height: 250px;  
+  }
+  .question {
+    width: 160px;
+    height: 18px;
+    font-size: 12px;
+    line-height: 18px;
+  }
+  
+  ul li{
+    padding: 5px;
+    
+  }
+  ul li button {
+    width: 150px;
+    height: 28px;
+    border: 1px solid rgba(96, 102, 208, 0.7);
+    border-radius: 12px;
+    font-size: 10px;
+    line-height: 27px;
+  }
+  .next_button {
+    width: 50px;
+    height: 20px;
+    box-shadow: 0px 1px 2px rgba(252, 168, 47, 0.4);
+    border-radius: 6px;
+    margin-right: 16px;
+  }
+  .result-title{
+    font-size: 12px;
+    line-height: 10px;
+  }
+  .result-content{
+    font-size: 10px;
+    line-height: 13px;
+  }
+  .result-content strong{
+    font-size: 13px;
+  }
+  .result-image {
+    margin-top: 25px;
+    width: 50%;
+    height: 50%;
+  }
+  .result-button{
+    margin-top: 10px;
+    border: 1px solid #1D355D;
+    font-size: 9px;
+    line-height: 13px;
+    width: 100px;
+    height: 30px;
+  }
 }
